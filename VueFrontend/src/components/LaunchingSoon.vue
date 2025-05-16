@@ -6,7 +6,7 @@
             </svg>
             <h1 class="text-4xl md:text-5xl font-extrabold text-white">MelaHost</h1>
         </div>
-        <p class="text-xl md:text-2xl mb-6 text-gray-300">Malta’s local hosting for websites & game servers.</p>
+        <p class="text-xl md:text-2xl mb-6 text-gray-300">Craft Big, Pay Less — Straight Outta Malta.</p>
 
         <div class="mb-6">
             <p class="text-sm text-gray-400 uppercase tracking-widest">Launching Soon</p>
