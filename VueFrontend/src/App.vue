@@ -1,8 +1,8 @@
 <script setup>
-import LaunchingSoonVue from "./components/LaunchingSoon.vue";
+import LaunchingSoon from "./components/LaunchingSoon.vue";
 </script>
 
 <template>
-  <LaunchingSoonVue/>
+  <LaunchingSoon/>
 </template>
 
